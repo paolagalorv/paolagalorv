@@ -1,2 +1,10 @@
 ## Hi there!
 My name is Paola Galindo Orvananos, I am a first year student at Oregon State University, expecting to graduate in 2029, and pursuing a double major in mathematics and data science. I've always loved learning about the world around me and understanding how different systems work, and I'm passionate about using that information to make a positive change in the world. I love the way math and data science give us an insight into how the world works, and I'm excited to learn the skills needed to use those insights and put them to good use. I'm still exploring my options, but I would love to use math and data science in an environmental or medical application to help people around me.
+
+
+**Skills Under Development:**
+Programming languages: Python and Java
+Mathematical analysis and interpretation
+Heightened attention to detail
+Large-scale project management
+Independence and self-direction
